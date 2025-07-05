@@ -1,0 +1,8 @@
+crewai
+google-generativeai
+qdrant-client
+qdrant-client[fastembed]
+PyMuPDF
+langchain
+python-dotenv
+pydantic
