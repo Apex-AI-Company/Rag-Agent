@@ -44,7 +44,7 @@ The system follows a two-stage process:
 
 **1. Clone the Repository**
 ```bash
-https://github.com/Apex-AI-Company/Rag-Agent-.git
+https://github.com/Apex-AI-Company/Rag-Agent.git
 cd Rag-Agent
 ```
 
