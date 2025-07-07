@@ -6,3 +6,6 @@ PyMuPDF
 langchain
 python-dotenv
 pydantic
+fastembed
+fitz
+
